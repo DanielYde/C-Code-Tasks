@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Er du ved at dø/1.0.0": {
+        "runtime": {
+          "Er du ved at dø.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Er du ved at dø/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

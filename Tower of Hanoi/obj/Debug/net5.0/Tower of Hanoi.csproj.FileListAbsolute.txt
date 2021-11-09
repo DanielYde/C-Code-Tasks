@@ -1,0 +1,16 @@
+C:\Users\Daniel Yde\Desktop\Programmering\C# Coding\Tower of Hanoi\bin\Debug\net5.0\Tower of Hanoi.exe
+C:\Users\Daniel Yde\Desktop\Programmering\C# Coding\Tower of Hanoi\bin\Debug\net5.0\Tower of Hanoi.deps.json
+C:\Users\Daniel Yde\Desktop\Programmering\C# Coding\Tower of Hanoi\bin\Debug\net5.0\Tower of Hanoi.runtimeconfig.json
+C:\Users\Daniel Yde\Desktop\Programmering\C# Coding\Tower of Hanoi\bin\Debug\net5.0\Tower of Hanoi.runtimeconfig.dev.json
+C:\Users\Daniel Yde\Desktop\Programmering\C# Coding\Tower of Hanoi\bin\Debug\net5.0\Tower of Hanoi.dll
+C:\Users\Daniel Yde\Desktop\Programmering\C# Coding\Tower of Hanoi\bin\Debug\net5.0\ref\Tower of Hanoi.dll
+C:\Users\Daniel Yde\Desktop\Programmering\C# Coding\Tower of Hanoi\bin\Debug\net5.0\Tower of Hanoi.pdb
+C:\Users\Daniel Yde\Desktop\Programmering\C# Coding\Tower of Hanoi\obj\Debug\net5.0\Tower of Hanoi.csproj.AssemblyReference.cache
+C:\Users\Daniel Yde\Desktop\Programmering\C# Coding\Tower of Hanoi\obj\Debug\net5.0\Tower of Hanoi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel Yde\Desktop\Programmering\C# Coding\Tower of Hanoi\obj\Debug\net5.0\Tower of Hanoi.AssemblyInfoInputs.cache
+C:\Users\Daniel Yde\Desktop\Programmering\C# Coding\Tower of Hanoi\obj\Debug\net5.0\Tower of Hanoi.AssemblyInfo.cs
+C:\Users\Daniel Yde\Desktop\Programmering\C# Coding\Tower of Hanoi\obj\Debug\net5.0\Tower of Hanoi.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Yde\Desktop\Programmering\C# Coding\Tower of Hanoi\obj\Debug\net5.0\Tower of Hanoi.dll
+C:\Users\Daniel Yde\Desktop\Programmering\C# Coding\Tower of Hanoi\obj\Debug\net5.0\ref\Tower of Hanoi.dll
+C:\Users\Daniel Yde\Desktop\Programmering\C# Coding\Tower of Hanoi\obj\Debug\net5.0\Tower of Hanoi.pdb
+C:\Users\Daniel Yde\Desktop\Programmering\C# Coding\Tower of Hanoi\obj\Debug\net5.0\Tower of Hanoi.genruntimeconfig.cache

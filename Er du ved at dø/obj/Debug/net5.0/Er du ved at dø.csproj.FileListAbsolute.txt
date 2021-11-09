@@ -1,0 +1,16 @@
+C:\Users\Daniel Yde\Desktop\Programmering\C# Coding\Er du ved at dø\bin\Debug\net5.0\Er du ved at dø.exe
+C:\Users\Daniel Yde\Desktop\Programmering\C# Coding\Er du ved at dø\bin\Debug\net5.0\Er du ved at dø.deps.json
+C:\Users\Daniel Yde\Desktop\Programmering\C# Coding\Er du ved at dø\bin\Debug\net5.0\Er du ved at dø.runtimeconfig.json
+C:\Users\Daniel Yde\Desktop\Programmering\C# Coding\Er du ved at dø\bin\Debug\net5.0\Er du ved at dø.runtimeconfig.dev.json
+C:\Users\Daniel Yde\Desktop\Programmering\C# Coding\Er du ved at dø\bin\Debug\net5.0\Er du ved at dø.dll
+C:\Users\Daniel Yde\Desktop\Programmering\C# Coding\Er du ved at dø\bin\Debug\net5.0\ref\Er du ved at dø.dll
+C:\Users\Daniel Yde\Desktop\Programmering\C# Coding\Er du ved at dø\bin\Debug\net5.0\Er du ved at dø.pdb
+C:\Users\Daniel Yde\Desktop\Programmering\C# Coding\Er du ved at dø\obj\Debug\net5.0\Er du ved at dø.csproj.AssemblyReference.cache
+C:\Users\Daniel Yde\Desktop\Programmering\C# Coding\Er du ved at dø\obj\Debug\net5.0\Er du ved at dø.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel Yde\Desktop\Programmering\C# Coding\Er du ved at dø\obj\Debug\net5.0\Er du ved at dø.AssemblyInfoInputs.cache
+C:\Users\Daniel Yde\Desktop\Programmering\C# Coding\Er du ved at dø\obj\Debug\net5.0\Er du ved at dø.AssemblyInfo.cs
+C:\Users\Daniel Yde\Desktop\Programmering\C# Coding\Er du ved at dø\obj\Debug\net5.0\Er du ved at dø.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Yde\Desktop\Programmering\C# Coding\Er du ved at dø\obj\Debug\net5.0\Er du ved at dø.dll
+C:\Users\Daniel Yde\Desktop\Programmering\C# Coding\Er du ved at dø\obj\Debug\net5.0\ref\Er du ved at dø.dll
+C:\Users\Daniel Yde\Desktop\Programmering\C# Coding\Er du ved at dø\obj\Debug\net5.0\Er du ved at dø.pdb
+C:\Users\Daniel Yde\Desktop\Programmering\C# Coding\Er du ved at dø\obj\Debug\net5.0\Er du ved at dø.genruntimeconfig.cache

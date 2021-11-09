@@ -1,0 +1,16 @@
+C:\Users\Daniel Yde\Desktop\Programmering\C# Coding\Strings C#\bin\Debug\net5.0\Strings C#.exe
+C:\Users\Daniel Yde\Desktop\Programmering\C# Coding\Strings C#\bin\Debug\net5.0\Strings C#.deps.json
+C:\Users\Daniel Yde\Desktop\Programmering\C# Coding\Strings C#\bin\Debug\net5.0\Strings C#.runtimeconfig.json
+C:\Users\Daniel Yde\Desktop\Programmering\C# Coding\Strings C#\bin\Debug\net5.0\Strings C#.runtimeconfig.dev.json
+C:\Users\Daniel Yde\Desktop\Programmering\C# Coding\Strings C#\bin\Debug\net5.0\Strings C#.dll
+C:\Users\Daniel Yde\Desktop\Programmering\C# Coding\Strings C#\bin\Debug\net5.0\ref\Strings C#.dll
+C:\Users\Daniel Yde\Desktop\Programmering\C# Coding\Strings C#\bin\Debug\net5.0\Strings C#.pdb
+C:\Users\Daniel Yde\Desktop\Programmering\C# Coding\Strings C#\obj\Debug\net5.0\Strings C#.csproj.AssemblyReference.cache
+C:\Users\Daniel Yde\Desktop\Programmering\C# Coding\Strings C#\obj\Debug\net5.0\Strings C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel Yde\Desktop\Programmering\C# Coding\Strings C#\obj\Debug\net5.0\Strings C#.AssemblyInfoInputs.cache
+C:\Users\Daniel Yde\Desktop\Programmering\C# Coding\Strings C#\obj\Debug\net5.0\Strings C#.AssemblyInfo.cs
+C:\Users\Daniel Yde\Desktop\Programmering\C# Coding\Strings C#\obj\Debug\net5.0\Strings C#.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Yde\Desktop\Programmering\C# Coding\Strings C#\obj\Debug\net5.0\Strings C#.dll
+C:\Users\Daniel Yde\Desktop\Programmering\C# Coding\Strings C#\obj\Debug\net5.0\ref\Strings C#.dll
+C:\Users\Daniel Yde\Desktop\Programmering\C# Coding\Strings C#\obj\Debug\net5.0\Strings C#.pdb
+C:\Users\Daniel Yde\Desktop\Programmering\C# Coding\Strings C#\obj\Debug\net5.0\Strings C#.genruntimeconfig.cache
